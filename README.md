@@ -1,6 +1,6 @@
 # 💰 Gerenciador Financeiro (CLI)
 
-Um sistema de gerenciamento financeiro pessoal via terminal (Command Line Interface), desenvolvido em Python. Este projeto aplica conceitos sólidos de modularização de código, persistência de dados em arquivos locais e formatação visual avançada para uma melhor experiência do usuário.
+Um sistema de gerenciamento financeiro pessoal via terminal, desenvolvido em Python. Este projeto aplica conceitos sólidos de modularização de código, persistência de dados em arquivos locais e formatação visual avançada para uma melhor experiência do usuário.
 
 ---
 
