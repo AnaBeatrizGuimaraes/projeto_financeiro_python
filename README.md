@@ -44,5 +44,17 @@ O código adota uma separação pragmática de responsabilidades, dividindo o es
 
 1. Certifique-se de ter o **Python 3** instalado.
 2. Instale a biblioteca visual executando o seguinte comando no seu terminal:
-   ```bash
-   pip install rich
+   `pip install rich`
+3. Faça o clone deste repositório ou baixe os arquivos.
+4. Navegue até a pasta do projeto através do terminal.
+5. Inicie o sistema executando o arquivo principal:
+   `python main.py`
+
+---
+
+## 👩‍💻 Autora
+
+**Ana Beatriz dos Santos Guimarães**  
+*Estudante de Ciência da Computação (UFRRJ)*
+
+> **Nota sobre o Roadmap:** Esta é a versão Procedural/CLI do projeto. O próximo estágio evolutivo de desenvolvimento incluirá a refatoração do código para Orientação a Objetos (OOP) e a construção de uma Interface Gráfica de Usuário (GUI) utilizando a biblioteca PySide6.
